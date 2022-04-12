@@ -1,1 +1,2 @@
 Preste bastante atenção em tudo
+Esses algoritmos de java foi adicionado para teste e são atividades do 1 semestre de TADS
